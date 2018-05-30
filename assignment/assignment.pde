@@ -6,11 +6,11 @@
  * 
  */
 void setup() {
-  size(1020,800);
+  size(1020,400);
   background(80,255,80);
 }
 
 void draw() {
-  
-
+  ellipseMode(CENTER);
+  ellipse(510,200,50,50);
 }
