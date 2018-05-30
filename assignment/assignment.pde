@@ -6,7 +6,7 @@
  * 
  */
 void setup() {
-
+  size(1020,800);
 }
 
 void draw() {
